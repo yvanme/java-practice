@@ -96,7 +96,7 @@
         <i_is_replica>0</i_is_replica>
         <i_vstamp>92</i_vstamp>
         <r_folder_path>
-            <r_folder_path-value>/杭州市档案局/归档文件/KJ.科技档案/01.按件整理/2015</r_folder_path-value>
+            <r_folder_path-value>/归档文件/KJ.科技档案/01.按件整理/2015</r_folder_path-value>
         </r_folder_path>
         <i_ancestor_id>
             <i_ancestor_id-value>0b01e2408004cd32</i_ancestor_id-value>
@@ -121,7 +121,6 @@
         <dw_data_sync>0</dw_data_sync>
         <dw_category_code>KJ</dw_category_code>
         <dw_class_ids>01</dw_class_ids>
-        <dw_responsible>杭州市档案局</dw_responsible>
         <dw_retention_period_name>长期100年</dw_retention_period_name>
         <dw_transfer>0</dw_transfer>
         <dw_transfer_by/>

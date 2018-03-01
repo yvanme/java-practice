@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>java-practice</groupId>
-    <artifactId>com.loong</artifactId>
+    <groupId>com.loong</groupId>
+    <artifactId>java-practice</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -14,6 +14,99 @@
         <module>POI</module>
         <module>email</module>
     </modules>
+    <!-- 集中定义依赖版本号 -->
+    <properties>
+        <junit.version>4.12</junit.version>
+        <spring.version>4.3.3.RELEASE</spring.version>
+        <mybatis.version>3.4.1</mybatis.version>
+        <mybatis.spring.version>1.3.0</mybatis.spring.version>
+        <mybatis.paginator.version>1.2.15</mybatis.paginator.version>
+        <mybaitsplus.version>2.0.2</mybaitsplus.version>
+        <mysql.version>5.1.40</mysql.version>
+        <druid.version>1.0.27</druid.version>
+        <slf4j.version>1.6.4</slf4j.version>
+        <hibernate.validator.version>4.3.1.Final</hibernate.validator.version>
+        <jackson.version>2.8.6</jackson.version>
+        <httpclient.version>4.4.1</httpclient.version>
+        <jstl.version>1.2</jstl.version>
+        <servlet-api.version>2.5</servlet-api.version>
+        <jsp-api.version>2.0</jsp-api.version>
+        <joda-time.version>2.5</joda-time.version>
+        <commons-lang3.version>3.3.2</commons-lang3.version>
+        <apache-commons.version>1.3.2</apache-commons.version>
+        <commons-io.version>2.2</commons-io.version>
+        <commons-net.version>3.3</commons-net.version>
+        <pagehelper.version>4.0.0</pagehelper.version>
+        <jsqlparser.version>0.9.1</jsqlparser.version>
+        <commons-fileupload.version>1.3.1</commons-fileupload.version>
+        <jedis.version>2.7.2</jedis.version>
+        <solrj.version>4.10.3</solrj.version>
+        <maven.compiler.plugin.version>3.1</maven.compiler.plugin.version>
+        <maven.war.plugin.version>2.2</maven.war.plugin.version>
+        <project.build.jdk.version>1.7</project.build.jdk.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
+        <documentum.version>6.7</documentum.version>
+        <framework.version>1.1</framework.version>
+        <commons.configuration.version>1.10</commons.configuration.version>
+        <datamber.adminclient.version>4.4.4</datamber.adminclient.version>
 
+        <log4j.version>1.2.17</log4j.version>
+        <slf4j.log4j12.version>1.7.7</slf4j.log4j12.version>
+        <docker.registryUrl.version>192.168.120.139:5000</docker.registryUrl.version>
+    </properties>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+
+        <!-- Apache工具组件 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>${apache-commons.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>${commons-io.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-net</groupId>
+            <artifactId>commons-net</artifactId>
+            <version>${commons-net.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-configuration</groupId>
+            <artifactId>commons-configuration</artifactId>
+            <version>${commons.configuration.version}</version>
+        </dependency>
+        <!-- 单元测试 -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- log4j日志 -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>${slf4j.log4j12.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>

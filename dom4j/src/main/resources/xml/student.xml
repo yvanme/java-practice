@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Users>
+    <User>
+        <name>18</name>
+        <age>男</age>
+        <sax>姓名1</sax>
+    </User>
+    <User>
+        <name>19</name>
+        <age>女</age>
+        <sax>姓名2</sax>
+    </User>
+    <User>
+        <name>20</name>
+        <age>女</age>
+        <sax>石头</sax>
+    </User>
+</Users>

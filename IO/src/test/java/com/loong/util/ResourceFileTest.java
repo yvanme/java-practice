@@ -10,6 +10,10 @@ import java.io.FileNotFoundException;
 public class ResourceFileTest {
 
     private static Logger logger = Logger.getLogger(ResourceFileTest.class);
+
+    /**
+     * 获取资源文件
+     */
     @Test
     public void testGetResourceFile(){
         try {

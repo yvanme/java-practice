@@ -4,7 +4,11 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/IO" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/POI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotation" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dom4j" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genericity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflect" charset="UTF-8" />
   </component>
 </project>

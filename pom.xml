@@ -13,6 +13,10 @@
         <module>IO</module>
         <module>POI</module>
         <module>email</module>
+        <module>reflect</module>
+        <module>jdbc</module>
+        <module>annotation</module>
+        <module>genericity</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>

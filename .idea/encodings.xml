@@ -10,5 +10,6 @@
     <file url="file://$PROJECT_DIR$/genericity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdbc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reflect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util" charset="UTF-8" />
   </component>
 </project>

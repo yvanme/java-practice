@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <resourceExtensions />
     <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
         <module name="annotation" />
+        <module name="designpattern" />
         <module name="dom4j" />
         <module name="email" />
         <module name="genericity" />
@@ -19,6 +25,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="annotation" target="1.5" />
+      <module name="designpattern" target="1.5" />
       <module name="dom4j" target="1.5" />
       <module name="email" target="1.5" />
       <module name="genericity" target="1.5" />

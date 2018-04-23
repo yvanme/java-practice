@@ -1,0 +1,2 @@
+className = com.loong.reflect.Student
+methodName = show

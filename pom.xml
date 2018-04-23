@@ -20,6 +20,8 @@
         <module>util</module>
         <module>designpattern</module>
         <module>enumeration</module>
+        <module>collection</module>
+        <module>thread</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>

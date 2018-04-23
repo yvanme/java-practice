@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POI/POI.iml" filepath="$PROJECT_DIR$/POI/POI.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/dom4j/dom4j.iml" filepath="$PROJECT_DIR$/dom4j/dom4j.iml" />
       <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-practice.iml" filepath="$PROJECT_DIR$/java-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>

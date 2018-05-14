@@ -2,6 +2,9 @@ package com.loong;
 
 import java.util.Arrays;
 
+/**
+ * 值类型和引用类型测试
+ */
 public class Test
 {
     public static void main(String[] args)

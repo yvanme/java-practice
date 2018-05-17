@@ -23,6 +23,8 @@
         <module>collection</module>
         <module>thread</module>
         <module>test</module>
+        <module>exception</module>
+        <module>algorithm</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>

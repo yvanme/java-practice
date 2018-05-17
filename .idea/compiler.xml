@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="algorithm" />
         <module name="annotation" />
         <module name="collection" />
         <module name="designpattern" />
         <module name="dom4j" />
         <module name="email" />
         <module name="enumeration" />
+        <module name="exception" />
         <module name="genericity" />
         <module name="IO" />
         <module name="jdbc" />
@@ -23,14 +25,16 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="algorithm" target="1.5" />
       <module name="annotation" target="1.7" />
       <module name="collection" target="1.5" />
       <module name="designpattern" target="1.5" />
       <module name="dom4j" target="1.5" />
       <module name="email" target="1.5" />
       <module name="enumeration" target="1.5" />
+      <module name="exception" target="1.5" />
       <module name="genericity" target="1.5" />
-      <module name="IO" target="1.5" />
+      <module name="IO" target="1.7" />
       <module name="java-practice" target="1.5" />
       <module name="jdbc" target="1.5" />
       <module name="POI" target="1.5" />

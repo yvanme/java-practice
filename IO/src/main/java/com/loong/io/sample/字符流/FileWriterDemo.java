@@ -22,6 +22,7 @@ public class FileWriterDemo {
             //将字符串写入到流中，\r\n表示换行想有好的
             w.write("Nerxious is a good boy\r\n");
             //如果想马上看到写入效果，则需要调用w.flush()方法
+            //flush和close的区别：flush刷新后可以继续输入，close刷新后不能继续输入。
             w.flush();
         } catch (IOException e) {
             e.printStackTrace();

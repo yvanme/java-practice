@@ -1,10 +1,9 @@
-package com.loong.IO;
+package com.loong.IO.字符流;
 
 import org.apache.log4j.Logger;
 import org.junit.Test;
 
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class FileReaderTest {

@@ -3,7 +3,7 @@ package com.loong;
 import java.util.Arrays;
 
 /**
- * 值类型和引用类型测试
+ * 值类型和引用类型测试test
  */
 public class Test
 {

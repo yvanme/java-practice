@@ -10,7 +10,7 @@ public class BufferedReaderBufferedWriterCopyTest {
     private static Logger logger = Logger.getLogger(BufferedReaderBufferedWriterCopyTest.class);
 
     @Test
-    public void testWriterFile(){
+    public void testBufferedReaderBufferedWriterCopy(){
 
         FileReader fileReader =null;
         FileWriter fileWriter =null;

@@ -11,7 +11,7 @@ public class FileReaderTest {
     private static Logger logger = Logger.getLogger(FileReaderTest.class);
 
     @Test
-    public void testWriterFile(){
+    public void testFileReader(){
 
         FileReader fileReader =null;
 

@@ -12,7 +12,7 @@ public class FileReaderFileWriterCopyTest {
     private static Logger logger = Logger.getLogger(FileReaderFileWriterCopyTest.class);
 
     @Test
-    public void testWriterFile(){
+    public void testFileReaderFileWriterCopy(){
 
         FileReader fileReader =null;
         FileWriter fileWriter =null;

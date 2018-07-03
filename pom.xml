@@ -25,6 +25,7 @@
         <module>test</module>
         <module>exception</module>
         <module>algorithm</module>
+        <module>problem</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>

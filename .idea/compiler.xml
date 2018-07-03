@@ -18,6 +18,7 @@
         <module name="IO" />
         <module name="jdbc" />
         <module name="POI" />
+        <module name="problem" />
         <module name="reflect" />
         <module name="test" />
         <module name="thread" />
@@ -38,6 +39,7 @@
       <module name="java-practice" target="1.5" />
       <module name="jdbc" target="1.5" />
       <module name="POI" target="1.5" />
+      <module name="problem" target="1.5" />
       <module name="reflect" target="1.5" />
       <module name="test" target="1.5" />
       <module name="thread" target="1.5" />

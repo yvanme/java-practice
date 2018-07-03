@@ -27,7 +27,7 @@
     <bytecodeTargetLevel>
       <module name="algorithm" target="1.5" />
       <module name="annotation" target="1.7" />
-      <module name="collection" target="1.5" />
+      <module name="collection" target="1.6" />
       <module name="designpattern" target="1.5" />
       <module name="dom4j" target="1.5" />
       <module name="email" target="1.5" />

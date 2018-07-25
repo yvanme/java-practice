@@ -41,7 +41,7 @@
       <module name="POI" target="1.5" />
       <module name="problem" target="1.5" />
       <module name="reflect" target="1.5" />
-      <module name="test" target="1.5" />
+      <module name="test" target="1.8" />
       <module name="thread" target="1.5" />
       <module name="util" target="1.5" />
     </bytecodeTargetLevel>

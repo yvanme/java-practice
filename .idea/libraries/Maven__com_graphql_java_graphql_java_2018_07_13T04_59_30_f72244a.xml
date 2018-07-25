@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.graphql-java:graphql-java:2018-07-13T04-59-30-f72244a">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/graphql-java/graphql-java/2018-07-13T04-59-30-f72244a/graphql-java-2018-07-13T04-59-30-f72244a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/graphql-java/graphql-java/2018-07-13T04-59-30-f72244a/graphql-java-2018-07-13T04-59-30-f72244a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/graphql-java/graphql-java/2018-07-13T04-59-30-f72244a/graphql-java-2018-07-13T04-59-30-f72244a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

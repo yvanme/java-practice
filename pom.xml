@@ -69,6 +69,13 @@
         <docker.registryUrl.version>192.168.120.139:5000</docker.registryUrl.version>
     </properties>
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.graphql-java/graphql-java -->
+        <dependency>
+            <groupId>com.graphql-java</groupId>
+            <artifactId>graphql-java</artifactId>
+            <version>2018-07-13T04-59-30-f72244a</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
         <dependency>
             <groupId>dom4j</groupId>
